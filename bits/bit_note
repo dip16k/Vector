@@ -1,0 +1,9 @@
+for binary conversion or negative bit testing use right shift
+
+**
+and for bit testing .. is it set or not 
+or to make set or clear use left shift***
+////////////////
+	use & of turning OFF a paricular bit
+use | to turn ON a bit
+
