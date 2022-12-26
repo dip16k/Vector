@@ -1,0 +1,17 @@
+#include<sys/shm.h>
+#include<sys/sem.h>
+#include<sys/ipc.h>
+#include<sys/wait.h>
+#include<sys/resource.h>
+#include<unistd.h>
+#include<signal.h>
+#include<dirent.h>
+#include<string.h>
+#include<fcntl.h>
+#include<stdio.h>
+#include<stdlib.h>
+#include<sys/stat.h>
+#include<time.h>
+#include<sys/timeb.h>
+#include<sys/types.h>
+#include<utime.h>
